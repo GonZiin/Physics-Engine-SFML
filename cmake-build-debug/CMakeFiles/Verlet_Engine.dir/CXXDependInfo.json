@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/gomes/CLionProjects/Verlet Engine/cmake-build-debug",
+	"dir-cur-src" : "/home/gomes/CLionProjects/Verlet Engine",
+	"dir-top-bld" : "/home/gomes/CLionProjects/Verlet Engine/cmake-build-debug",
+	"dir-top-src" : "/home/gomes/CLionProjects/Verlet Engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"_deps/sfml-src/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/gomes/CLionProjects/Verlet Engine/cmake-build-debug/CMakeFiles/Verlet_Engine.dir"
+}
